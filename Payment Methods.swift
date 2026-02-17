@@ -1,6 +1,3 @@
-//
-// Copyright © 2020 The Go-Ahead Group plc. All rights reserved.
-//
 
 import XCTest
 
